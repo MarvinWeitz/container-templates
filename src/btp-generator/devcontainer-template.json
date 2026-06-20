@@ -3,5 +3,7 @@
 	"version": "1.0.0",
 	"name": "SAP BTP Generator",
 	"description": "Scaffolding environment with yo and @cbs-consulting/generator-btp pre-installed. Opens an interactive generator prompt on first start.",
-	"documentationURL": "https://github.com/MarvinWeitz/container-templates/tree/main/src/btp-generator"
+	"documentationURL": "https://github.com/MarvinWeitz/container-templates/tree/main/src/btp-generator",
+	"publisher": "Marvin Weitz",
+	"licenseURL": "https://github.com/MarvinWeitz/container-templates/blob/main/LICENSE"
 }
