@@ -2,7 +2,7 @@
 	"name": "SAP BTP Generator",
 	"image": "mcr.microsoft.com/devcontainers/base:debian",
 	"features": {
-		"ghcr.io/devcontainers/features/node:1": {
+		"ghcr.io/devcontainers/features/node:2": {
 			"version": "lts"
 		},
 		"ghcr.io/marvinweitz/container-features/cap-dev-stack:1": {}
